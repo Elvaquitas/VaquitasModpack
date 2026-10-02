@@ -1,0 +1,17 @@
+[vibration]
+	#Enable or disable converting voice activity into sculk vibrations.
+	enabled = true
+	#Voice sensitivity from 1 to 10
+	#1 requires the loudest voice.
+	#10 is the most sensitive.
+	# Default: 8
+	# Range: 1 ~ 10
+	voiceThreshold = 8
+	#Minimum number of Minecraft ticks between vibrations from the same player.
+	# Default: 4
+	# Range: > 0
+	cooldownTicks = 4
+
+[group]
+	#Automatically create and maintain the Voice To Sculk Simple Voice Chat group.
+	enabled = true
