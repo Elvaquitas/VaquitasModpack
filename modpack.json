@@ -1,258 +1,82 @@
 {
     "files":  [
                   {
-                      "name":  "mods",
-                      "path":  "",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods",
-                      "type":  "FOLDER"
-                  },
-                  {
                       "name":  "config",
                       "path":  "",
                       "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config",
                       "type":  "FOLDER"
                   },
                   {
-                      "name":  "xaero",
-                      "path":  "",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/xaero",
-                      "type":  "FOLDER"
-                  },
-                  {
-                      "name":  "world-map",
-                      "path":  "",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/world-map",
-                      "type":  "FOLDER"
-                  },
-                  {
-                      "name":  "server_profiles",
-                      "path":  "",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/server_profiles",
-                      "type":  "FOLDER"
-                  },
-                  {
-                      "name":  "profiles",
-                      "path":  "",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/profiles",
-                      "type":  "FOLDER"
-                  },
-                  {
-                      "name":  "lib",
-                      "path":  "",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/lib",
+                      "name":  "stormiespiders",
+                      "path":  "config/",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/stormiespiders",
                       "type":  "FOLDER"
                   },
                   {
                       "name":  "voicechat",
-                      "path":  "",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/voicechat",
+                      "path":  "config/",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/voicechat",
                       "type":  "FOLDER"
                   },
                   {
-                      "name":  "stormiespiders",
-                      "path":  "",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/stormiespiders",
+                      "name":  "xaero",
+                      "path":  "config/",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero",
                       "type":  "FOLDER"
                   },
                   {
-                      "name":  "appleskin-neoforge-mc1.21-3.0.9.jar",
-                      "path":  "mods/",
-                      "size":  75804,
-                      "sha1":  "81cf0e668f991f83ac8820c386fbd6c9c3602246",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
-                      "type":  "MOD"
+                      "name":  "lib",
+                      "path":  "config/xaero/",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/lib",
+                      "type":  "FOLDER"
                   },
                   {
-                      "name":  "architectury-13.0.11-neoforge.jar",
-                      "path":  "mods/",
-                      "size":  584734,
-                      "sha1":  "008656a0702801174b8ec245ed7aad1921d6e9f1",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/architectury-13.0.11-neoforge.jar",
-                      "type":  "MOD"
+                      "name":  "profiles",
+                      "path":  "config/xaero/lib/",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/lib/profiles",
+                      "type":  "FOLDER"
                   },
                   {
-                      "name":  "chupacoinneo-6.jar",
-                      "path":  "mods/",
-                      "size":  67181581,
-                      "sha1":  "91a4157fd5f5a316ec4bb3238f12a433d2ce84d7",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/chupacoinneo-6.jar",
-                      "type":  "MOD"
+                      "name":  "server_profiles",
+                      "path":  "config/xaero/lib/",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/lib/server_profiles",
+                      "type":  "FOLDER"
                   },
                   {
-                      "name":  "cloth-config-15.0.140-neoforge.jar",
-                      "path":  "mods/",
-                      "size":  1163890,
-                      "sha1":  "c3e5733ba4503b102589a026000fd5ce0212f6f2",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/cloth-config-15.0.140-neoforge.jar",
-                      "type":  "MOD"
+                      "name":  "world-map",
+                      "path":  "config/xaero/",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/world-map",
+                      "type":  "FOLDER"
                   },
                   {
-                      "name":  "Controlling-neoforge-1.21.1-19.0.5.jar",
-                      "path":  "mods/",
-                      "size":  77555,
-                      "sha1":  "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
-                      "type":  "MOD"
+                      "name":  "profiles",
+                      "path":  "config/xaero/world-map/",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/world-map/profiles",
+                      "type":  "FOLDER"
                   },
                   {
-                      "name":  "cwb-neoforge-3.0.0+mc1.21.jar",
-                      "path":  "mods/",
-                      "size":  81843,
-                      "sha1":  "6fe849c4a488107572c9af9d7d8329d93376f343",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/cwb-neoforge-3.0.0+mc1.21.jar",
-                      "type":  "MOD"
+                      "name":  "server_profiles",
+                      "path":  "config/xaero/world-map/",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/world-map/server_profiles",
+                      "type":  "FOLDER"
                   },
                   {
-                      "name":  "Essential_1-5-0-1_neoforge_1-21-1.jar",
-                      "path":  "mods/",
-                      "size":  51428972,
-                      "sha1":  "bcdade1307e9f927d6e7544b798dbddb613704c5",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/Essential_1-5-0-1_neoforge_1-21-1.jar",
-                      "type":  "MOD"
+                      "name":  "defaultconfigs",
+                      "path":  "",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/defaultconfigs",
+                      "type":  "FOLDER"
                   },
                   {
-                      "name":  "fangs_n_claws-1.2.5.jar",
-                      "path":  "mods/",
-                      "size":  3562767,
-                      "sha1":  "ac4a39fc38eb89d06076d5970a56d916c6a0719e",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/fangs_n_claws-1.2.5.jar",
-                      "type":  "MOD"
+                      "name":  "mods",
+                      "path":  "",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods",
+                      "type":  "FOLDER"
                   },
                   {
-                      "name":  "flimsytorches-1.21.1-1.1.3.1.jar",
-                      "path":  "mods/",
-                      "size":  126931,
-                      "sha1":  "d6473781aafa65647a1668e1ddfab9379a8236fe",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/flimsytorches-1.21.1-1.1.3.1.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "geckolib-neoforge-1.21.1-4.9.3.jar",
-                      "path":  "mods/",
-                      "size":  634531,
-                      "sha1":  "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "immersivehotbar-1.2.2-neoforge-1.21-1.21.1.jar",
-                      "path":  "mods/",
-                      "size":  123761,
-                      "sha1":  "8f0a4b2cfb30edb29742950d9a75fb4bdc05091c",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/immersivehotbar-1.2.2-neoforge-1.21-1.21.1.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "immersive_portals-6.0.7-all.jar",
-                      "path":  "mods/",
-                      "size":  1864746,
-                      "sha1":  "cfbeca890b281fec20a5c94d6673effb37127129",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/immersive_portals-6.0.7-all.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
-                      "path":  "mods/",
-                      "size":  1221583,
-                      "sha1":  "48dda11a6710591cf162bdbedf982ea21dd1f2ed",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "Searchables-neoforge-1.21.1-1.0.2.jar",
-                      "path":  "mods/",
-                      "size":  77326,
-                      "sha1":  "5b8a0b43a474c066371b2e16f9bfb88622552a74",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "simple_voice_broadcast-neoforge-1.21.1-1.0.0.jar",
-                      "path":  "mods/",
-                      "size":  13124,
-                      "sha1":  "b1b9d20489773d571c77c04f98f56e578c452398",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/simple_voice_broadcast-neoforge-1.21.1-1.0.0.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "sodium-neoforge-0.6.0+mc1.21.1.jar",
-                      "path":  "mods/",
-                      "size":  1148443,
-                      "sha1":  "497c0cdf99c235cc5005f31019a77ac75cc80974",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/sodium-neoforge-0.6.0+mc1.21.1.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "stormiespiders-neoforge-1.21.1-3.3.2.jar",
-                      "path":  "mods/",
-                      "size":  1634800,
-                      "sha1":  "caa4f6c7b6f3da6bca54f189d7dd25b1149660f8",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/stormiespiders-neoforge-1.21.1-3.3.2.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "thunderhead-neoforge-1.2.0.jar",
-                      "path":  "mods/",
-                      "size":  818437,
-                      "sha1":  "35ac11999aa183c80d9d2cfc287fcd8c8365c401",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/thunderhead-neoforge-1.2.0.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "toucanlib-neoforge-1.21.1-0.5.0.jar",
-                      "path":  "mods/",
-                      "size":  208139,
-                      "sha1":  "6d2324ef489e9e49b732770800f40b9c3235233f",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/toucanlib-neoforge-1.21.1-0.5.0.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "umas-2.0-neoforge-1.21.1.jar",
-                      "path":  "mods/",
-                      "size":  43737697,
-                      "sha1":  "e321e2a1064dae615e7c57bc93c247e8e0c744e6",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/umas-2.0-neoforge-1.21.1.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "visualhealth-neoforge-1.21.1-2.0.4.jar",
-                      "path":  "mods/",
-                      "size":  1455184,
-                      "sha1":  "b73b29c81933d3891a76361d8da949413c57fc3e",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/visualhealth-neoforge-1.21.1-2.0.4.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "voicechat-neoforge-1.21.1-2.6.24.jar",
-                      "path":  "mods/",
-                      "size":  4934688,
-                      "sha1":  "436ee200d5192ffda65fcf70c42c086fcdc00826",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/voicechat-neoforge-1.21.1-2.6.24.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "voice_to_sculk-1.0.0b.jar",
-                      "path":  "mods/",
-                      "size":  14201,
-                      "sha1":  "46bc78a39cc81f1d06adc2a2a420a9e2c601ecdc",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/voice_to_sculk-1.0.0b.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
-                      "path":  "mods/",
-                      "size":  1422680,
-                      "sha1":  "82b4ae6c0f2e13f02cbdc1325342909ed083fc24",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
-                      "path":  "mods/",
-                      "size":  1118651,
-                      "sha1":  "fe270c9f6e0a8142cf316944087f5109cef08bbb",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
-                      "type":  "MOD"
+                      "name":  "resourcepacks",
+                      "path":  "",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/resourcepacks",
+                      "type":  "FOLDER"
                   },
                   {
                       "name":  "appleskin-client.toml",
@@ -303,19 +127,19 @@
                       "type":  "OTHER"
                   },
                   {
-                      "name":  "immersive-hotbar.json5",
-                      "path":  "config/",
-                      "size":  1647,
-                      "sha1":  "90f2dcfb92aedbc0cb440057b18be082fa5253ad",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/immersive-hotbar.json5",
-                      "type":  "OTHER"
-                  },
-                  {
                       "name":  "immersive_portals.json",
                       "path":  "config/",
                       "size":  1864,
                       "sha1":  "02784024db4942d6ed362a0407ca411c229dfb33",
                       "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/immersive_portals.json",
+                      "type":  "OTHER"
+                  },
+                  {
+                      "name":  "immersive-hotbar.json5",
+                      "path":  "config/",
+                      "size":  1647,
+                      "sha1":  "90f2dcfb92aedbc0cb440057b18be082fa5253ad",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/immersive-hotbar.json5",
                       "type":  "OTHER"
                   },
                   {
@@ -375,11 +199,27 @@
                       "type":  "OTHER"
                   },
                   {
-                      "name":  "tempestfx-server.json",
-                      "path":  "config/",
-                      "size":  519,
-                      "sha1":  "7a80b48679022ed856c6c5ad8a65c9e04806a87a",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/tempestfx-server.json",
+                      "name":  "non-climbable-blocks.json",
+                      "path":  "config/stormiespiders/",
+                      "size":  51,
+                      "sha1":  "c302cb3df85cdf46784af666b622367022c00a96",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/stormiespiders/non-climbable-blocks.json",
+                      "type":  "OTHER"
+                  },
+                  {
+                      "name":  "rotation-overrides.json",
+                      "path":  "config/stormiespiders/",
+                      "size":  38,
+                      "sha1":  "0103c0bec5ccc88e6efbba18c26132160345e3cc",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/stormiespiders/rotation-overrides.json",
+                      "type":  "OTHER"
+                  },
+                  {
+                      "name":  "stormiespiders.json",
+                      "path":  "config/stormiespiders/",
+                      "size":  255,
+                      "sha1":  "f67d3be27acfc5698b663bc3d0c6be6bdbe9b5c8",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/stormiespiders/stormiespiders.json",
                       "type":  "OTHER"
                   },
                   {
@@ -391,11 +231,11 @@
                       "type":  "OTHER"
                   },
                   {
-                      "name":  "villagerretaliation-client.properties",
+                      "name":  "tempestfx-server.json",
                       "path":  "config/",
-                      "size":  130,
-                      "sha1":  "42b8b21e4890361d0252111f75d96a7421b981af",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/villagerretaliation-client.properties",
+                      "size":  519,
+                      "sha1":  "7a80b48679022ed856c6c5ad8a65c9e04806a87a",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/tempestfx-server.json",
                       "type":  "OTHER"
                   },
                   {
@@ -415,6 +255,14 @@
                       "type":  "OTHER"
                   },
                   {
+                      "name":  "villagerretaliation-client.properties",
+                      "path":  "config/",
+                      "size":  130,
+                      "sha1":  "42b8b21e4890361d0252111f75d96a7421b981af",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/villagerretaliation-client.properties",
+                      "type":  "OTHER"
+                  },
+                  {
                       "name":  "visualhealth.json",
                       "path":  "config/",
                       "size":  285,
@@ -428,86 +276,6 @@
                       "size":  487,
                       "sha1":  "d94e5d2c1b752a4fac03ec0c5ae2a3d694adb8a1",
                       "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/voice_to_sculk-server.toml",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "xaeropatreon.txt",
-                      "path":  "config/",
-                      "size":  0,
-                      "sha1":  "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaeropatreon.txt",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "yacl.json5",
-                      "path":  "config/",
-                      "size":  250,
-                      "sha1":  "622920f29084efcd3a8d0b2a0ea0756fece182d2",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/yacl.json5",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "client.cfg",
-                      "path":  "config/xaero/world-map/",
-                      "size":  521,
-                      "sha1":  "27b70648a1bccd0561ae94c0a1a978f283893dea",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/world-map/client.cfg",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "common.cfg",
-                      "path":  "config/xaero/world-map/",
-                      "size":  141,
-                      "sha1":  "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/world-map/common.cfg",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "default.cfg",
-                      "path":  "config/xaero/world-map/server_profiles/",
-                      "size":  75,
-                      "sha1":  "8efdb5a6c4f4f41a36b531d54592321012491fb2",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/world-map/server_profiles/default.cfg",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "default.cfg",
-                      "path":  "config/xaero/world-map/profiles/",
-                      "size":  1619,
-                      "sha1":  "2f1680b1a14bf8cc756c5911c9b9f90e119a365e",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/world-map/profiles/default.cfg",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "client.cfg",
-                      "path":  "config/xaero/lib/",
-                      "size":  26,
-                      "sha1":  "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/lib/client.cfg",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "common.cfg",
-                      "path":  "config/xaero/lib/",
-                      "size":  236,
-                      "sha1":  "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/lib/common.cfg",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "default.cfg",
-                      "path":  "config/xaero/lib/server_profiles/",
-                      "size":  75,
-                      "sha1":  "8efdb5a6c4f4f41a36b531d54592321012491fb2",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/lib/server_profiles/default.cfg",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "default.cfg",
-                      "path":  "config/xaero/lib/profiles/",
-                      "size":  121,
-                      "sha1":  "253bac0f5181c8db8e488832c46a8d40018650cf",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/lib/profiles/default.cfg",
                       "type":  "OTHER"
                   },
                   {
@@ -535,28 +303,284 @@
                       "type":  "OTHER"
                   },
                   {
-                      "name":  "non-climbable-blocks.json",
-                      "path":  "config/stormiespiders/",
-                      "size":  51,
-                      "sha1":  "c302cb3df85cdf46784af666b622367022c00a96",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/stormiespiders/non-climbable-blocks.json",
+                      "name":  "client.cfg",
+                      "path":  "config/xaero/lib/",
+                      "size":  26,
+                      "sha1":  "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/lib/client.cfg",
                       "type":  "OTHER"
                   },
                   {
-                      "name":  "rotation-overrides.json",
-                      "path":  "config/stormiespiders/",
-                      "size":  38,
-                      "sha1":  "0103c0bec5ccc88e6efbba18c26132160345e3cc",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/stormiespiders/rotation-overrides.json",
+                      "name":  "common.cfg",
+                      "path":  "config/xaero/lib/",
+                      "size":  236,
+                      "sha1":  "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/lib/common.cfg",
                       "type":  "OTHER"
                   },
                   {
-                      "name":  "stormiespiders.json",
-                      "path":  "config/stormiespiders/",
-                      "size":  255,
-                      "sha1":  "f67d3be27acfc5698b663bc3d0c6be6bdbe9b5c8",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/stormiespiders/stormiespiders.json",
+                      "name":  "default.cfg",
+                      "path":  "config/xaero/lib/profiles/",
+                      "size":  121,
+                      "sha1":  "253bac0f5181c8db8e488832c46a8d40018650cf",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/lib/profiles/default.cfg",
                       "type":  "OTHER"
+                  },
+                  {
+                      "name":  "default.cfg",
+                      "path":  "config/xaero/lib/server_profiles/",
+                      "size":  75,
+                      "sha1":  "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/lib/server_profiles/default.cfg",
+                      "type":  "OTHER"
+                  },
+                  {
+                      "name":  "client.cfg",
+                      "path":  "config/xaero/world-map/",
+                      "size":  521,
+                      "sha1":  "27b70648a1bccd0561ae94c0a1a978f283893dea",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/world-map/client.cfg",
+                      "type":  "OTHER"
+                  },
+                  {
+                      "name":  "common.cfg",
+                      "path":  "config/xaero/world-map/",
+                      "size":  141,
+                      "sha1":  "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/world-map/common.cfg",
+                      "type":  "OTHER"
+                  },
+                  {
+                      "name":  "default.cfg",
+                      "path":  "config/xaero/world-map/profiles/",
+                      "size":  1619,
+                      "sha1":  "2f1680b1a14bf8cc756c5911c9b9f90e119a365e",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/world-map/profiles/default.cfg",
+                      "type":  "OTHER"
+                  },
+                  {
+                      "name":  "default.cfg",
+                      "path":  "config/xaero/world-map/server_profiles/",
+                      "size":  75,
+                      "sha1":  "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaero/world-map/server_profiles/default.cfg",
+                      "type":  "OTHER"
+                  },
+                  {
+                      "name":  "xaeropatreon.txt",
+                      "path":  "config/",
+                      "size":  0,
+                      "sha1":  "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/xaeropatreon.txt",
+                      "type":  "OTHER"
+                  },
+                  {
+                      "name":  "yacl.json5",
+                      "path":  "config/",
+                      "size":  250,
+                      "sha1":  "622920f29084efcd3a8d0b2a0ea0756fece182d2",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/yacl.json5",
+                      "type":  "OTHER"
+                  },
+                  {
+                      "name":  "appleskin-neoforge-mc1.21-3.0.9.jar",
+                      "path":  "mods/",
+                      "size":  75804,
+                      "sha1":  "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "architectury-13.0.11-neoforge.jar",
+                      "path":  "mods/",
+                      "size":  584734,
+                      "sha1":  "008656a0702801174b8ec245ed7aad1921d6e9f1",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/architectury-13.0.11-neoforge.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "chupacoinneo-6.jar",
+                      "path":  "mods/",
+                      "size":  67181581,
+                      "sha1":  "91a4157fd5f5a316ec4bb3238f12a433d2ce84d7",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/chupacoinneo-6.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "cloth-config-15.0.140-neoforge.jar",
+                      "path":  "mods/",
+                      "size":  1163890,
+                      "sha1":  "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/cloth-config-15.0.140-neoforge.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "Controlling-neoforge-1.21.1-19.0.5.jar",
+                      "path":  "mods/",
+                      "size":  77555,
+                      "sha1":  "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "cwb-neoforge-3.0.0+mc1.21.jar",
+                      "path":  "mods/",
+                      "size":  81843,
+                      "sha1":  "6fe849c4a488107572c9af9d7d8329d93376f343",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/cwb-neoforge-3.0.0%2Bmc1.21.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "Essential_1-5-0-1_neoforge_1-21-1.jar",
+                      "path":  "mods/",
+                      "size":  51428972,
+                      "sha1":  "bcdade1307e9f927d6e7544b798dbddb613704c5",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/Essential_1-5-0-1_neoforge_1-21-1.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "fangs_n_claws-1.2.5.jar",
+                      "path":  "mods/",
+                      "size":  3562767,
+                      "sha1":  "ac4a39fc38eb89d06076d5970a56d916c6a0719e",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/fangs_n_claws-1.2.5.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "flimsytorches-1.21.1-1.1.3.1.jar",
+                      "path":  "mods/",
+                      "size":  126931,
+                      "sha1":  "d6473781aafa65647a1668e1ddfab9379a8236fe",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/flimsytorches-1.21.1-1.1.3.1.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "geckolib-neoforge-1.21.1-4.9.3.jar",
+                      "path":  "mods/",
+                      "size":  634531,
+                      "sha1":  "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "immersive_portals-6.0.7-all.jar",
+                      "path":  "mods/",
+                      "size":  1864746,
+                      "sha1":  "cfbeca890b281fec20a5c94d6673effb37127129",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/immersive_portals-6.0.7-all.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "immersivehotbar-1.2.2-neoforge-1.21-1.21.1.jar",
+                      "path":  "mods/",
+                      "size":  123761,
+                      "sha1":  "8f0a4b2cfb30edb29742950d9a75fb4bdc05091c",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/immersivehotbar-1.2.2-neoforge-1.21-1.21.1.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+                      "path":  "mods/",
+                      "size":  1221583,
+                      "sha1":  "48dda11a6710591cf162bdbedf982ea21dd1f2ed",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "Searchables-neoforge-1.21.1-1.0.2.jar",
+                      "path":  "mods/",
+                      "size":  77326,
+                      "sha1":  "5b8a0b43a474c066371b2e16f9bfb88622552a74",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "simple_voice_broadcast-neoforge-1.21.1-1.0.0.jar",
+                      "path":  "mods/",
+                      "size":  13124,
+                      "sha1":  "b1b9d20489773d571c77c04f98f56e578c452398",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/simple_voice_broadcast-neoforge-1.21.1-1.0.0.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "sodium-neoforge-0.6.0+mc1.21.1.jar",
+                      "path":  "mods/",
+                      "size":  1148443,
+                      "sha1":  "497c0cdf99c235cc5005f31019a77ac75cc80974",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/sodium-neoforge-0.6.0%2Bmc1.21.1.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "stormiespiders-neoforge-1.21.1-3.3.2.jar",
+                      "path":  "mods/",
+                      "size":  1634800,
+                      "sha1":  "caa4f6c7b6f3da6bca54f189d7dd25b1149660f8",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/stormiespiders-neoforge-1.21.1-3.3.2.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "thunderhead-neoforge-1.2.0.jar",
+                      "path":  "mods/",
+                      "size":  818437,
+                      "sha1":  "35ac11999aa183c80d9d2cfc287fcd8c8365c401",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/thunderhead-neoforge-1.2.0.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "toucanlib-neoforge-1.21.1-0.5.0.jar",
+                      "path":  "mods/",
+                      "size":  208139,
+                      "sha1":  "6d2324ef489e9e49b732770800f40b9c3235233f",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/toucanlib-neoforge-1.21.1-0.5.0.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "umas-2.0-neoforge-1.21.1.jar",
+                      "path":  "mods/",
+                      "size":  43737697,
+                      "sha1":  "e321e2a1064dae615e7c57bc93c247e8e0c744e6",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/umas-2.0-neoforge-1.21.1.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "visualhealth-neoforge-1.21.1-2.0.4.jar",
+                      "path":  "mods/",
+                      "size":  1455184,
+                      "sha1":  "b73b29c81933d3891a76361d8da949413c57fc3e",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/visualhealth-neoforge-1.21.1-2.0.4.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "voice_to_sculk-1.0.0b.jar",
+                      "path":  "mods/",
+                      "size":  14201,
+                      "sha1":  "46bc78a39cc81f1d06adc2a2a420a9e2c601ecdc",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/voice_to_sculk-1.0.0b.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "voicechat-neoforge-1.21.1-2.6.24.jar",
+                      "path":  "mods/",
+                      "size":  4934688,
+                      "sha1":  "436ee200d5192ffda65fcf70c42c086fcdc00826",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/voicechat-neoforge-1.21.1-2.6.24.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+                      "path":  "mods/",
+                      "size":  1422680,
+                      "sha1":  "82b4ae6c0f2e13f02cbdc1325342909ed083fc24",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/xaeroworldmap-neoforge-1.21.1-1.46.0.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+                      "path":  "mods/",
+                      "size":  1118651,
+                      "sha1":  "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+                      "type":  "MOD"
                   }
               ]
 }
