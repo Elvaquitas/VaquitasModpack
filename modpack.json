@@ -547,7 +547,7 @@
                       "path":  "mods/",
                       "size":  107920605,
                       "sha1":  "078c015919396544ca9f479e17953b4d2a7a18f8",
-                      "url":  "https://github.com/Elvaquitas/VaquitasModpack/releases/download/modpack-assets/mods--vacasafio-1.1-beta-neoforge-1.21.1.jar",
+                      "url":  "https://api.github.com/repos/Elvaquitas/VaquitasModpack/releases/assets/604959713",
                       "type":  "MOD"
                   },
                   {
