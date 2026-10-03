@@ -95,22 +95,6 @@
                       "type":  "OTHER"
                   },
                   {
-                      "name":  "fangs_n_claws-common.toml",
-                      "path":  "config/",
-                      "size":  3978,
-                      "sha1":  "30e64a016967d53e1258a8151dcdce26b22d5a7e",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/fangs_n_claws-common.toml",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "fangs_n_claws-server.toml",
-                      "path":  "config/",
-                      "size":  3329,
-                      "sha1":  "05b1f8184bd6b7df2cb013fd1c0bdeb07fdacb72",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/fangs_n_claws-server.toml",
-                      "type":  "OTHER"
-                  },
-                  {
                       "name":  "flimsytorches-common.toml",
                       "path":  "config/",
                       "size":  1960,
@@ -212,38 +196,6 @@
                       "size":  1613,
                       "sha1":  "95b4284a609a23d539b2eb27b913ef3a9a5816d9",
                       "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/tempestfx.json",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "villagerretaliation-client.properties",
-                      "path":  "config/",
-                      "size":  130,
-                      "sha1":  "42b8b21e4890361d0252111f75d96a7421b981af",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/villagerretaliation-client.properties",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "villagerretaliation.json5",
-                      "path":  "config/",
-                      "size":  11376,
-                      "sha1":  "1321bea880aa436735b9e3ad140f9ded6cd2880e",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/villagerretaliation.json5",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "villagerretaliation_beta_13_warning.json",
-                      "path":  "config/",
-                      "size":  71,
-                      "sha1":  "faec646bbb8ee1f67b3c08342980bafeaf8b6f1b",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/villagerretaliation_beta_13_warning.json",
-                      "type":  "OTHER"
-                  },
-                  {
-                      "name":  "visualhealth.json",
-                      "path":  "config/",
-                      "size":  285,
-                      "sha1":  "70a39bb05bef31cf535d09cee4306d5b55ebe538",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/config/visualhealth.json",
                       "type":  "OTHER"
                   },
                   {
@@ -439,14 +391,6 @@
                       "type":  "MOD"
                   },
                   {
-                      "name":  "fangs_n_claws-1.2.5.jar",
-                      "path":  "mods/",
-                      "size":  3562767,
-                      "sha1":  "ac4a39fc38eb89d06076d5970a56d916c6a0719e",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/fangs_n_claws-1.2.5.jar",
-                      "type":  "MOD"
-                  },
-                  {
                       "name":  "flimsytorches-1.21.1-1.1.3.1.jar",
                       "path":  "mods/",
                       "size":  126931,
@@ -543,19 +487,11 @@
                       "type":  "MOD"
                   },
                   {
-                      "name":  "vacasafio-1.3 beta-neoforge-1.21.1.jar",
+                      "name":  "vacasafio-1.4 beta-neoforge-1.21.1.jar",
                       "path":  "mods/",
-                      "size":  107984736,
-                      "sha1":  "2098385d8dbf4faaabdaa1eb752625801d80902e",
-                      "url":  "https://api.github.com/repos/Elvaquitas/VaquitasModpack/releases/assets/606569612",
-                      "type":  "MOD"
-                  },
-                  {
-                      "name":  "visualhealth-neoforge-1.21.1-2.0.4.jar",
-                      "path":  "mods/",
-                      "size":  1455184,
-                      "sha1":  "b73b29c81933d3891a76361d8da949413c57fc3e",
-                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/visualhealth-neoforge-1.21.1-2.0.4.jar",
+                      "size":  108024100,
+                      "sha1":  "1feeed9a9c2973526c1d2d8d610b93153b2dba40",
+                      "url":  "https://api.github.com/repos/Elvaquitas/VaquitasModpack/releases/assets/606987320",
                       "type":  "MOD"
                   },
                   {
