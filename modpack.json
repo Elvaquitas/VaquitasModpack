@@ -383,6 +383,14 @@
                       "type":  "MOD"
                   },
                   {
+                      "name":  "curios-neoforge-9.5.1+1.21.1.jar",
+                      "path":  "mods/",
+                      "size":  410690,
+                      "sha1":  "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/curios-neoforge-9.5.1%2B1.21.1.jar",
+                      "type":  "MOD"
+                  },
+                  {
                       "name":  "CustomPlayerModels-1.21-0.6.27a.jar",
                       "path":  "mods/",
                       "size":  2793136,
