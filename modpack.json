@@ -351,6 +351,14 @@
                       "type":  "MOD"
                   },
                   {
+                      "name":  "balm-neoforge-1.21.1-21.0.66.jar",
+                      "path":  "mods/",
+                      "size":  783793,
+                      "sha1":  "dd3606a349f4a3c8fb5bd0ab22905675c02b0d74",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/balm-neoforge-1.21.1-21.0.66.jar",
+                      "type":  "MOD"
+                  },
+                  {
                       "name":  "chupacoinneo-6.jar",
                       "path":  "mods/",
                       "size":  67181581,
@@ -372,6 +380,14 @@
                       "size":  77555,
                       "sha1":  "8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
                       "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "CustomPlayerModels-1.21-0.6.27a.jar",
+                      "path":  "mods/",
+                      "size":  2793136,
+                      "sha1":  "34d57efcc56c043f89c61f169944d7b95c11f504",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/CustomPlayerModels-1.21-0.6.27a.jar",
                       "type":  "MOD"
                   },
                   {
@@ -407,11 +423,27 @@
                       "type":  "MOD"
                   },
                   {
+                      "name":  "immersivedamageindicators-neoforge-1.0.0-1.21.1.jar",
+                      "path":  "mods/",
+                      "size":  247052,
+                      "sha1":  "891ae8c6ac793f72bc74dfd34423f044c4967b9a",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/immersivedamageindicators-neoforge-1.0.0-1.21.1.jar",
+                      "type":  "MOD"
+                  },
+                  {
                       "name":  "immersivehotbar-1.2.2-neoforge-1.21-1.21.1.jar",
                       "path":  "mods/",
                       "size":  123761,
                       "sha1":  "8f0a4b2cfb30edb29742950d9a75fb4bdc05091c",
                       "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/immersivehotbar-1.2.2-neoforge-1.21-1.21.1.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "immersivemessages-neoforge-1.0.18-1.21.1.jar",
+                      "path":  "mods/",
+                      "size":  1278637,
+                      "sha1":  "b0f31d833ce76e9d57b5eb05bed1c34f61aaa7e7",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/immersivemessages-neoforge-1.0.18-1.21.1.jar",
                       "type":  "MOD"
                   },
                   {
@@ -428,6 +460,14 @@
                       "size":  1221583,
                       "sha1":  "48dda11a6710591cf162bdbedf982ea21dd1f2ed",
                       "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "Pehkui-3.8.3+1.21-neoforge.jar",
+                      "path":  "mods/",
+                      "size":  507568,
+                      "sha1":  "4ae35b04b0fca7b170417a12d6da6a693281574b",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/Pehkui-3.8.3%2B1.21-neoforge.jar",
                       "type":  "MOD"
                   },
                   {
@@ -479,6 +519,22 @@
                       "type":  "MOD"
                   },
                   {
+                      "name":  "trashslot-neoforge-1.21.1-21.1.11.jar",
+                      "path":  "mods/",
+                      "size":  77535,
+                      "sha1":  "7343e4b563feb79122c8373a0d5416182ca436a8",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/trashslot-neoforge-1.21.1-21.1.11.jar",
+                      "type":  "MOD"
+                  },
+                  {
+                      "name":  "txnilib-neoforge-1.0.24-1.21.1.jar",
+                      "path":  "mods/",
+                      "size":  6276522,
+                      "sha1":  "17b1bbb96e922e683a1807a2e7bece603fdc491d",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/txnilib-neoforge-1.0.24-1.21.1.jar",
+                      "type":  "MOD"
+                  },
+                  {
                       "name":  "umas-2.0-neoforge-1.21.1.jar",
                       "path":  "mods/",
                       "size":  43737697,
@@ -487,11 +543,11 @@
                       "type":  "MOD"
                   },
                   {
-                      "name":  "vacasafio-1.5.3 beta-neoforge-1.21.1.jar",
+                      "name":  "vacasafio-1.5.4 beta-neoforge-1.21.1.jar",
                       "path":  "mods/",
-                      "size":  108713180,
-                      "sha1":  "c5424788347dd792f4e363733794e857305b424c",
-                      "url":  "https://api.github.com/repos/Elvaquitas/VaquitasModpack/releases/assets/611612127",
+                      "size":  125354537,
+                      "sha1":  "93390c1030ee96eb3794a04664ce3c5fe07007fe",
+                      "url":  "https://api.github.com/repos/Elvaquitas/VaquitasModpack/releases/assets/626838933",
                       "type":  "MOD"
                   },
                   {
