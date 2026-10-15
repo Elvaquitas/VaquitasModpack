@@ -487,6 +487,14 @@
                       "type":  "MOD"
                   },
                   {
+                      "name":  "puzzleslib-v21.1.64-mc1.21.1+neoforge.jar",
+                      "path":  "mods/",
+                      "size":  1451067,
+                      "sha1":  "8562ac65d4f2a55365d4522934fb0e00cd3d3ec3",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/puzzleslib-v21.1.64-mc1.21.1%2Bneoforge.jar",
+                      "type":  "MOD"
+                  },
+                  {
                       "name":  "Searchables-neoforge-1.21.1-1.0.2.jar",
                       "path":  "mods/",
                       "size":  77326,
