@@ -479,6 +479,14 @@
                       "type":  "MOD"
                   },
                   {
+                      "name":  "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+                      "path":  "mods/",
+                      "size":  97094,
+                      "sha1":  "90d3fe207c95a3a5d849ebf8d70ffa885694e30f",
+                      "url":  "https://raw.githubusercontent.com/Elvaquitas/VaquitasModpack/main/mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+                      "type":  "MOD"
+                  },
+                  {
                       "name":  "Searchables-neoforge-1.21.1-1.0.2.jar",
                       "path":  "mods/",
                       "size":  77326,
@@ -551,11 +559,11 @@
                       "type":  "MOD"
                   },
                   {
-                      "name":  "vacasafio-1.5.6 beta-neoforge-1.21.1.jar",
+                      "name":  "vacasafio-1.5.7 beta-neoforge-1.21.1.jar",
                       "path":  "mods/",
-                      "size":  125355080,
-                      "sha1":  "b9a6ea628f5c58ff28576c5ff4195bb42db0b721",
-                      "url":  "https://api.github.com/repos/Elvaquitas/VaquitasModpack/releases/assets/626916013",
+                      "size":  128133367,
+                      "sha1":  "3bd555d0a78ad1a3b9704a73d4c2807b2472853c",
+                      "url":  "https://api.github.com/repos/Elvaquitas/VaquitasModpack/releases/assets/642914370",
                       "type":  "MOD"
                   },
                   {
